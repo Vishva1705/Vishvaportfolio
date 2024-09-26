@@ -20,9 +20,9 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import First_Project from "./assets/images/projects/first-project.png";
-import Second_Project from "./assets/images/projects/second-project.png";
-import Third_Project from "./assets/images/projects/third-project.png";
+// import First_Project from "./assets/images/projects/first-project.png";
+// import Second_Project from "./assets/images/projects/second-project.png";
+// import Third_Project from "./assets/images/projects/third-project.png";
 // import person_project from "./assets/images/projects/person.png";
 import person_project from "./assets/images/Hero/project.png";
 
@@ -169,15 +169,15 @@ export const content = {
     project_content: [
       {
         title: "Gym Website",
-        image: First_Project,
+        // image: First_Project,
       },
       {
         title: "Social Media web",
-        image: Second_Project,
+        // image: Second_Project,
       },
       {
         title: "Creative Website",
-        image: Third_Project,
+        // image: Third_Project,
       },
     ],
   },
